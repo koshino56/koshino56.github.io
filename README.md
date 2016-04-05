@@ -30,7 +30,9 @@
 但し、このソースコードは[MPL](http://www.mozilla.org/MPL/2.0/)のもと配布されています。MPLに従えば、どなたでも利用、改変、及び再配布が可能です。
 
 ##津幡町版開発チームとライセンスについて
-- 松吉 一憲(Kazunori Matsuyoshi)　Developer
+- 越野 亮(Makoto Koshino)　Developer
+- 大伏 仙泰(Noriyasu Obushi)　Developer
+- 廣花 智遥(Chiharu Hirohana)　Developer
 
 ## 5374のカスタマイズについて
 
