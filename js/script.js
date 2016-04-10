@@ -450,7 +450,7 @@ $(function() {
     //直近の一番近い日付を計算します。
     areaModel.calcMostRect();
     //トラッシュの近い順にソートします。
-    areaModel.sortTrash();
+	areaModel.sortTrash();
     var accordion_height = window.innerHeight / descriptions.length;
     if(descriptions.length>4){
       accordion_height = window.innerHeight / 4.1;
