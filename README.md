@@ -33,7 +33,6 @@
 - 越野 亮(Makoto Koshino)　Developer
 - 大伏 仙泰(Noriyasu Obushi)　Developer
 - 廣花 智遥(Chiharu Hirohana)　Developer
-- 松吉 一憲(Kazunori Matsuyoshi)　Developer
 
 ## 5374のカスタマイズについて
 
